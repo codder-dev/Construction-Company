@@ -128,7 +128,7 @@ html{
 }
 
 .home{
-    background-image: url(/images/project1.jpg);
+    background-image: url(images/project1.jpg);
     background-color: rgba(0, 0, 0, 0.6); 
     background-blend-mode: darken; 
     min-height: 100vh;
